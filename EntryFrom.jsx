@@ -1,1 +1,8 @@
+// EntryForm.jsx
+// Placeholder - Entry Form component coming soon
 
+function EntryForm() {
+  return null;
+}
+
+export default EntryForm;
